@@ -14,5 +14,12 @@
       "mario": 5
     },
     "gruppoId": "gmrwnbprwmy6axy"
+  },
+  {
+    "nome": "ele",
+    "descrizione": "spesa",
+    "importo": 60,
+    "partecipanti": [],
+    "gruppoId": "gmrwnl35codofu7"
   }
 ]
