@@ -21,5 +21,23 @@
     "importo": 60,
     "partecipanti": [],
     "gruppoId": "gmrwnl35codofu7"
+  },
+  {
+    "nome": "ele",
+    "descrizione": "prova di spesa ultima [NE]",
+    "importo": 80,
+    "partecipanti": [
+      "ele",
+      "Filippo Rossi",
+      "mario",
+      "mirko"
+    ],
+    "quote": {
+      "ele": 20,
+      "Filippo Rossi": 20,
+      "mario": 20,
+      "mirko": 20
+    },
+    "gruppoId": "gmrwoohgbjcrbfe"
   }
 ]
