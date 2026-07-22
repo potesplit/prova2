@@ -1,9 +1,18 @@
 [
   {
-    "nome": "ele",
-    "descrizione": "spesa1",
+    "nome": "Filippo Rossi",
+    "descrizione": "spesa2 [NE]",
     "importo": 70,
-    "partecipanti": [],
-    "gruppoId": "gmrwna8x8nrnogw"
+    "partecipanti": [
+      "ele",
+      "Filippo Rossi",
+      "mario"
+    ],
+    "quote": {
+      "ele": 60,
+      "Filippo Rossi": 5,
+      "mario": 5
+    },
+    "gruppoId": "gmrwnbprwmy6axy"
   }
 ]
