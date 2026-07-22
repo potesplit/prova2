@@ -39,5 +39,33 @@
       "mirko": 20
     },
     "gruppoId": "gmrwoohgbjcrbfe"
+  },
+  {
+    "nome": "ele",
+    "descrizione": "prvoaspesasolatadi30 [NE]",
+    "importo": 20,
+    "partecipanti": [
+      "ele",
+      "Filippo Rossi"
+    ],
+    "quote": {
+      "ele": 20,
+      "Filippo Rossi": 10
+    },
+    "gruppoId": "gmrwqjo3acuuoil"
+  },
+  {
+    "nome": "Filippo Rossi",
+    "descrizione": "prvoaspesasolatadi30 [NE]",
+    "importo": 20,
+    "partecipanti": [
+      "ele",
+      "Filippo Rossi"
+    ],
+    "quote": {
+      "ele": 20,
+      "Filippo Rossi": 10
+    },
+    "gruppoId": "gmrwqjo3acuuoil"
   }
 ]
