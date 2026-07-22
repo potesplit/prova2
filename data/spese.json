@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "nome": "ele",
+    "descrizione": "spesa1",
+    "importo": 70,
+    "partecipanti": [],
+    "gruppoId": "gmrwna8x8nrnogw"
+  }
+]
